@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Bebe-dev/product-preview-card-component]
+- Live Site URL: [https://bebe-dev.github.io/product-preview-card-component/]
 
 ## My process
 
@@ -58,6 +58,5 @@ I want to keep learning how to manage my container's width so as to make my work
 
 - Frontend Mentor - [@Bebe-dev](https://www.frontendmentor.io/profile/Bebe-dev)
 - Twitter - [@fisayo2_5](https://www.twitter.com/yourusername)
-- Github -
-- [@bebe-dev](https://github.com/Bebe-dev)
+- Github - [@bebe-dev](https://github.com/Bebe-dev)
 
