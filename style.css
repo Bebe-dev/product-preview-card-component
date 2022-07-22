@@ -75,7 +75,7 @@ button{
   margin: auto;
 }
 button:hover{
-  background-color: hsl(212, 21%, 14%);
+  background-color: hsla(158, 36%, 37%, 0.2);
 }
 .svg{margin-right: 10px;}
 
